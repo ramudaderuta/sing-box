@@ -176,3 +176,5 @@ jobs:
             sing-box-server${{ env.SUFFIX }}
             sing-box-both-side${{ env.SUFFIX }}
           compression-level: 9
+
+          
